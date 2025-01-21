@@ -19,7 +19,7 @@ A powerful script to generate production-ready Next.js projects with all essenti
 1. Download the script:
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/repo/main/nextjs-setup-script.sh
+curl -O https://raw.githubusercontent.com/gbechtold/Claude-to-React-Next/refs/heads/main/nextjs-setup-script.sh
 ```
 
 2. Make it executable:
@@ -36,7 +36,7 @@ chmod +x nextjs-setup-script.sh
 
 4. Follow the prompts to create your project
 
-## 📦 What's Included
+## 📦 What's Included in this project
 
 ### Project Structure
 
