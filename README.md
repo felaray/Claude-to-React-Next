@@ -1,6 +1,8 @@
 # 🚀 Claude to React Next.js Project Generator
 
 A powerful script to generate production-ready Next.js projects with all essential configurations and best practices built in.
+[5 Minute Video Tutorial](https://www.loom.com/share/3e53ff639ec74e48b0b8ca8a54e45a81?sid=aba6de53-0fce-4ca7-94e0-fdb0d18c42f8) 
+
 
 ## ✨ Features
 
