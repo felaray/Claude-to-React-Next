@@ -262,14 +262,14 @@ mkdir -p src/components/ui
 npm install -D @shadcn/ui
 
 # Initialize shadcn
-npx shadcn-ui@latest init
+npx shadcn@latest init
 
 # Install basic components
 print_message "36" "📦 Installing shadcn/ui components..."
-npx shadcn-ui@latest add button
-npx shadcn-ui@latest add card
-npx shadcn-ui@latest add select
-npx shadcn-ui@latest add switch
+npx shadcn@latest add button
+npx shadcn@latest add card
+npx shadcn@latest add select
+npx shadcn@latest add switch
 
 # Update package.json scripts
 print_message "36" "📝 Updating package.json scripts..."
